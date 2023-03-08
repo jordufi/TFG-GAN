@@ -2,6 +2,9 @@
 Generative adversarial network for faking flower images.
 The document of this project can be found in https://oa.upm.es/71209/
 
+
+
+
 It even fakes the Google lens detector by making it thinks that the images generated are real flowers
 
 ABSTRACT
